@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>title</title>
+</head>
+<body>
+    <h1>Contact Me</h1>
+    <hr />
+    <h4>Mobile number:</h4>
+        <p>646-228-8766 </p>
+    <h4>Email address: </h4>
+        <p>normyjane91@gmail.com</p>
+
+    <h4>Home address:</h4>
+    608 Ne 9th Ave <br />
+    Fort lauderdale <br />
+    Florida <br />
+    33304
+</body>
+</html>
